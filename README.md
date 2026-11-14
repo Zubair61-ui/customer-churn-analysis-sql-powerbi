@@ -2,7 +2,7 @@
 
 An end-to-end analysis of telecom customer churn using **Excel** (profiling), **PostgreSQL** (cleaning and analysis) and **Power BI** (5-page interactive dashboard).
 
-**Author:** Zubair Hashmat | **Contact:** hashmatzubair32@gmail.com | **Dashboard PDF:** (telco_churn_viz.pdf)
+**Author:** Zubair Hashmat | **Contact:** hashmatzubair32@gmail.com | **Dashboard PDF:** [Customer Churn Dashboard](telco_churn_viz.pdf)
 
 ![Dashboard overview](Overview_dashboard.png)
 
