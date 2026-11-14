@@ -4,7 +4,7 @@ An end-to-end analysis of telecom customer churn using **Excel** (profiling), **
 
 **Author:** Zubair Hashmat | **Contact:** hashmatzubair32@gmail.com | **Dashboard PDF:** [link]
 
-![Dashboard overview](images/01_overview.png)
+![Dashboard overview](Overview_dashboard.png)
 
 ---
 
@@ -22,7 +22,7 @@ A telecom provider is losing customers and does not know which ones or why. This
 4. What reasons do churned customers give?
 5. Which customer segments should the retention team prioritise?
 
-The scope, KPIs and assumptions are in the [Business Requirements Document](docs/BRD.pdf).
+The scope, KPIs and assumptions are in the [Business Requirements Document](BRD.pdf).
 
 ## Data
 
@@ -53,8 +53,8 @@ The scope, KPIs and assumptions are in the [Business Requirements Document](docs
 | **Reasons** | Churn reasons grouped and individual, reason mix by contract, with slicers |
 | **Priority segments** | The ten segments losing the most customers and revenue |
 
-![Drivers page](images/03_drivers.png)
-![Priority segments page](images/05_priority_segments.png)
+![Drivers page](Drivers_dashboard.png)
+![Priority segments page](Priority_segments_dashboard.png)
 
 ## Key Findings
 
